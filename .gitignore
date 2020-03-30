@@ -1,0 +1,6 @@
+**config.py
+*.ini
+**/__pycache__
+**/.ipynb_checkpoints
+backup/**
+temp/**

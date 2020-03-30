@@ -177,8 +177,8 @@ function make_BubblePlot(otuIds, otuIdsWithPrefix, sampleValues, otuLabels) {
   var layout = {
     title: 'Bubble Chart',
     showlegend: false,
-    height: 600,
-    width: 1200
+    height: 550,
+    width: 1100
   };
 
   Plotly.newPlot('bubbleplot', data, layout, {
